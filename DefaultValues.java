@@ -19,7 +19,7 @@ public class DefaultValues
     
     public static void main(String[] args) {
       
-        DefaultValues w1= new DefaultValues();
+        DefaultValues w1= new DefaultValues(); // 
         System.out.println(w1.i);
         
         DefaultValues w2= new DefaultValues();

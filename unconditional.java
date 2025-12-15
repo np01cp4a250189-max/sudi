@@ -15,7 +15,8 @@ public class unconditional
             System.out.println(i);
             if (i==2){ 
         continue;
-        System.out.println(i);
+         System.out.println(i);
+        
         
     }
         

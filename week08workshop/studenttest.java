@@ -9,4 +9,13 @@ package week08workshop;
  */
 public class studenttest
 {
+   
+    public static void main(String[] args) {
+
+        
+        student s1 = new student( 1, "Neharika","Biratnagar",9812345678L, "Golden Gate International College");
+
+        
+        s1.displayInfo();
+    }
 }

@@ -7,7 +7,7 @@ package week09tutorial;
  * @author (your name)
  * @version (a version number or a date)
  */
-class Person {
+ public class Person {
     int id;
     String name;
     double basicSalary;
